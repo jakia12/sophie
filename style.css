@@ -66,9 +66,9 @@
 
 .first__left_image {
   width: 100%;
-  object-fit: contain;
-  height: 410px;
-  width: 528px;
+  /* object-fit: contain; */
+  height: 527px;
+  width: 435px;
   border-radius: 38px;
 }
 .person {
@@ -247,8 +247,8 @@
 .wrapper,
 .second {
   overflow: hidden;
+  padding: 90px 0 45px;
 }
-
 @media (max-width: 1300px) {
   .second__right .first__left_image {
     transform: scale(1.4);
