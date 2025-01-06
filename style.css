@@ -368,6 +368,11 @@
     width: 130%;
   }
 }
+@media (max-width: 768px) {
+  .first__right {
+    margin-top: 36px;
+  }
+}
 
 @media (max-width: 450px) {
   .title {
