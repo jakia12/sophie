@@ -372,6 +372,13 @@
   .first__right {
     margin-top: 36px;
   }
+  .first__left_image {
+    width: 100%;
+    /* object-fit: contain; */
+    height: 489px;
+    width: 100%;
+    border-radius: 38px;
+  }
 }
 
 @media (max-width: 450px) {
