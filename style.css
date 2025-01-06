@@ -380,13 +380,17 @@
     border-radius: 38px;
   }
   .title {
-    font-size: 63px;
+    font-size: 44px;
+  }
+  .networks {
+    margin-bottom: 70px;
+    flex-wrap: nowrap;
   }
 }
 
 @media (max-width: 450px) {
   .title {
-    font-size: 80px;
+    font-size: 44px;
   }
 
   .second__text {
